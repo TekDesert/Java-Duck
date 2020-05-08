@@ -1,0 +1,1 @@
+Please read the user guide before starting the game :)
